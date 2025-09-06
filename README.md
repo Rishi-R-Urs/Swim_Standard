@@ -24,6 +24,7 @@ Data Files
 Keep these in the same folder as Swim_Standard.py:
 * sfi_records.csv (required) – Indian records
 * swim_exercises.csv (optional) – Training map
+
 Supported time formats: mm:ss.xx, mm.ss.cs, ss.xx
 
 
